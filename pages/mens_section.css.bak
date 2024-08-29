@@ -1,0 +1,4 @@
+.details {
+	font-family: 'Poppins:wght@900&display', sans-serif !important;
+	font-size: 14;
+}
