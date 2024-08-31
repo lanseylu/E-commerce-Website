@@ -5,4 +5,4 @@ This is a project I made back in my second year in college. To use this, just in
 
 In this project, I learned to use PHP, HTML/CSS, Bootstrap, JavaScript, and MySQL to create a dynamic and visually-appealing website. Users can add to cart, adjust item quantity on their carts, fill up shipping forms, view their total, and browse through items with ease and intuition.
 
-Images are not mine and only used for practice.  
+Images are not mine and this project is only intended for personal practice.
